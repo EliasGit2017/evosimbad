@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jppf-common-node.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jppf-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jppf-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/collections-generic-4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencsv-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
