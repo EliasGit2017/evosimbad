@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05dccac7-1cab-451f-ad20-f2174cd7fcb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jppf.log" beforeDir="false" afterPath="$PROJECT_DIR$/jppf.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/collections-generic-4.01.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/collections-generic-4.01.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evosimbad/aggregation/AggregationClusters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evosimbad/aggregation/AggregationClusters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evosimbad/aggregation/test/AggregationEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evosimbad/aggregation/test/AggregationEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evosimbad/deprecated/mix/MinimalCriteriaNoveltyNEAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evosimbad/deprecated/mix/MinimalCriteriaNoveltyNEAT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GEuMWSFTsdkAnvqQEU296SxzqH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/elias/git/evosimbad&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Test" type="AntRunConfiguration" editBeforeRun="true" singleton="false">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="evosimbad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="evosimbad" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05dccac7-1cab-451f-ad20-f2174cd7fcb3" name="Changes" comment="" />
+      <created>1665966017785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665966017785</updated>
+      <workItem from="1665966023234" duration="1103000" />
+      <workItem from="1666100229628" duration="22000" />
+      <workItem from="1667222988227" duration="1203000" />
+      <workItem from="1667507451674" duration="249000" />
+      <workItem from="1667522469728" duration="1361000" />
+      <workItem from="1667706153326" duration="256000" />
+      <workItem from="1671614390720" duration="1371000" />
+      <workItem from="1671615773560" duration="19000" />
+      <workItem from="1671615817359" duration="76000" />
+      <workItem from="1671615916893" duration="12000" />
+      <workItem from="1671692027430" duration="80000" />
+      <workItem from="1671693597485" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>

@@ -10,6 +10,7 @@ import evosimbad.evolution.LinearBlend;
 import java.util.List;
 import java.util.Map;
 import org.neat4j.neat.ga.core.Chromosome;
+import evosimbad.generic.*;
 
 /**
  *
